@@ -1,6 +1,6 @@
 Hey there! I'm Ravi Vishnu Dasari 👋
 
-I'm a recent Final Year Computer Science Student and an enthusiastic tech explorer who loves building things and learning continuously.
+I'm a Final Year Computer Science Student and an enthusiastic tech explorer who loves building things and learning continuously.
 
 About Me:
 
